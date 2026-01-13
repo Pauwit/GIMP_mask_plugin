@@ -1,0 +1,1 @@
+# GIMP_mask_plugin
