@@ -13,7 +13,7 @@ from enum import Enum
 import re
 import json
 
-IMG_DIR = os.path.expanduser("~\\Documents\\Stage\\papillae_detection\\new_images\\pngs")
+IMG_DIR = os.path.expanduser("~\\PATH\\TO\\YOUR\\IMAGE\\FOLDER")
 CONFIG_FILE = os.path.expanduser("~\\AppData\\Roaming\\GIMP\\3.0\\plug-ins\\save_mask_and_next\\config.json")
 DEBUG_FILE = os.path.expanduser("~\\AppData\\Roaming\\GIMP\\3.0\\plug-ins\\save_mask_and_next\\gimp_plugin_debug.txt")
 OPACITY = 10.0
