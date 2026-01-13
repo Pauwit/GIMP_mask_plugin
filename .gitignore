@@ -1,0 +1,5 @@
+.vscode
+.idea
+
+config.json
+*_debug.txt
